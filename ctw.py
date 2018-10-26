@@ -3,13 +3,24 @@
 #Executar como caudio 
 #
 
-art  = """\   _____              .___                                  
-  /     \ _____     __| _/______  ____   _________    ______
- /  \ /  \\__  \   / __ |\_  __ \/  _ \ / ___\__  \  /  ___/
-/    Y    \/ __ \_/ /_/ | |  | \(  <_> ) /_/  > __ \_\___ \ 
-\____|__  (____  /\____ | |__|   \____/\___  (____  /____  >
-        \/     \/      \/             /_____/     \/     \/
-        """
+art  = """
+MMMMMMMM               MMMMMMMM                                                                                           
+M:::::::M             M:::::::M                                                                                           
+M::::::::M           M::::::::M                                                                                           
+M:::::::::M         M:::::::::M                                                                                           
+M::::::::::M       M::::::::::M  aaaaaaaaaaaaa  rrrrr   rrrrrrrrr       cccccccccccccccc   ooooooooooo       ssssssssss   
+M:::::::::::M     M:::::::::::M  a::::::::::::a r::::rrr:::::::::r    cc:::::::::::::::c oo:::::::::::oo   ss::::::::::s  
+M:::::::M::::M   M::::M:::::::M  aaaaaaaaa:::::ar:::::::::::::::::r  c:::::::::::::::::co:::::::::::::::oss:::::::::::::s 
+M::::::M M::::M M::::M M::::::M           a::::arr::::::rrrrr::::::rc:::::::cccccc:::::co:::::ooooo:::::os::::::ssss:::::s
+M::::::M  M::::M::::M  M::::::M    aaaaaaa:::::a r:::::r     r:::::rc::::::c     ccccccco::::o     o::::o s:::::s  ssssss 
+M::::::M   M:::::::M   M::::::M  aa::::::::::::a r:::::r     rrrrrrrc:::::c             o::::o     o::::o   s::::::s      
+M::::::M    M:::::M    M::::::M a::::aaaa::::::a r:::::r            c:::::c             o::::o     o::::o      s::::::s   
+M::::::M     MMMMM     M::::::Ma::::a    a:::::a r:::::r            c::::::c     ccccccco::::o     o::::ossssss   s:::::s 
+M::::::M               M::::::Ma::::a    a:::::a r:::::r            c:::::::cccccc:::::co:::::ooooo:::::os:::::ssss::::::s
+M::::::M               M::::::Ma:::::aaaa::::::a r:::::r             c:::::::::::::::::co:::::::::::::::os::::::::::::::s 
+M::::::M               M::::::M a::::::::::aa:::ar:::::r              cc:::::::::::::::c oo:::::::::::oo  s:::::::::::ss  
+MMMMMMMM               MMMMMMMM  aaaaaaaaaa  aaaarrrrrrr                cccccccccccccccc   ooooooooooo     sssssssssss
+"""
 print(art)        
 import os
 import argparse
